@@ -1,0 +1,230 @@
+,indicator_name,indicator_code,country_name,country_code,value,year,year_y
+0,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mozambique,MOZ,69.4,1996-01-01,1996
+12,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bangladesh,BGD,48.9,2000-01-01,2000
+19,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Chile,CHL,20.2,2000-01-01,2000
+33,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,32.0,2000-01-01,2000
+44,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Egypt, Arab Rep.",EGY,16.7,2000-01-01,2000
+45,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Tunisia,TUN,32.4,2000-01-01,2000
+58,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Cameroon,CMR,40.2,2001-01-01,2001
+69,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,32.8,2001-01-01,2001
+80,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Morocco,MAR,15.3,2001-01-01,2001
+95,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,49.7,2002-01-01,2002
+119,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,32.7,2002-01-01,2002
+160,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Lao PDR,LAO,33.5,2002-01-01,2002
+262,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Chile,CHL,18.7,2003-01-01,2003
+263,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,48.0,2003-01-01,2003
+287,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,41.5,2003-01-01,2003
+328,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mozambique,MOZ,54.1,2003-01-01,2003
+340,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Sierra Leone,SLE,66.4,2003-01-01,2003
+440,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bosnia and Herzegovina,BIH,18.3,2004-01-01,2004
+444,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,47.4,2004-01-01,2004
+468,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,49.8,2004-01-01,2004
+479,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Estonia,EST,18.3,2004-01-01,2004
+525,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Nigeria,NGA,48.42364,2004-01-01,2004
+563,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,58.7,2004-01-01,2004
+617,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,83.4,2004-01-01,2004
+652,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,48.2,2004-01-01,2004
+657,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bangladesh,BGD,40.0,2005-01-01,2005
+664,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,45.0,2005-01-01,2005
+688,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Congo, Dem. Rep.",ZAR,71.3,2005-01-01,2005
+700,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,47.8,2005-01-01,2005
+711,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Egypt, Arab Rep.",EGY,19.6,2005-01-01,2005
+712,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,35.2,2005-01-01,2005
+758,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Lebanon,LBN,28.6,2005-01-01,2005
+765,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,55.6,2005-01-01,2005
+766,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Tunisia,TUN,23.3,2005-01-01,2005
+798,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,West Bank and Gaza,WBG,29.5,2005-01-01,2005
+801,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep.",YEM,34.78,2005-01-01,2005
+824,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,42.5,2005-01-01,2005
+855,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,82.5,2005-01-01,2005
+863,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,31.9,2005-01-01,2005
+895,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,44.5,2005-01-01,2005
+900,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Chile,CHL,13.7,2006-01-01,2006
+916,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,44.2,2006-01-01,2006
+927,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,30.7,2006-01-01,2006
+942,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Guatemala,GTM,51.0,2006-01-01,2006
+984,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,49.1,2006-01-01,2006
+985,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Togo,TGO,61.7,2006-01-01,2006
+1018,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Zambia,ZMB,59.3,2006-01-01,2006
+1028,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,35.8,2006-01-01,2006
+1029,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Guatemala,GTM,70.5,2006-01-01,2006
+1062,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,79.3,2006-01-01,2006
+1067,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,27.7,2006-01-01,2006
+1068,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Guatemala,GTM,30.0,2006-01-01,2006
+1102,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,37.0,2006-01-01,2006
+1107,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Afghanistan,AFG,36.3,2007-01-01,2007
+1116,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bosnia and Herzegovina,BIH,18.2,2007-01-01,2007
+1120,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Cameroon,CMR,39.9,2007-01-01,2007
+1131,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,43.6,2007-01-01,2007
+1142,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,36.7,2007-01-01,2007
+1164,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,34.6,2007-01-01,2007
+1179,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Guinea,GIN,53.0,2007-01-01,2007
+1221,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Iraq,IRQ,22.4,2007-01-01,2007
+1240,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Liberia,LBR,63.8,2007-01-01,2007
+1257,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Morocco,MAR,8.9,2007-01-01,2007
+1272,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,42.4,2007-01-01,2007
+1273,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Syrian Arab Republic,SYR,33.6,2007-01-01,2007
+1278,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Timor-Leste,TMP,49.9,2007-01-01,2007
+1316,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,61.3,2007-01-01,2007
+1320,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,43.8,2007-01-01,2007
+1353,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,74.0,2007-01-01,2007
+1358,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,24.3,2007-01-01,2007
+1362,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,29.8,2007-01-01,2007
+1396,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,30.1,2007-01-01,2007
+1401,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Albania,ALB,12.4,2008-01-01,2008
+1406,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,42.0,2008-01-01,2008
+1430,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,44.2,2008-01-01,2008
+1441,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,35.1,2008-01-01,2008
+1463,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,40.0,2008-01-01,2008
+1511,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Lao PDR,LAO,27.6,2008-01-01,2008
+1530,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mexico,MEX,44.5,2008-01-01,2008
+1563,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mozambique,MOZ,54.7,2008-01-01,2008
+1575,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,33.8,2008-01-01,2008
+1586,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,37.3,2008-01-01,2008
+1611,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,59.7,2008-01-01,2008
+1615,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,49.0,2008-01-01,2008
+1648,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,59.4,2008-01-01,2008
+1649,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,68.8,2008-01-01,2008
+1654,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,22.6,2008-01-01,2008
+1658,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,35.7,2008-01-01,2008
+1692,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,19.6,2008-01-01,2008
+1693,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,25.4,2008-01-01,2008
+1698,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Chile,CHL,15.1,2009-01-01,2009
+1714,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,40.3,2009-01-01,2009
+1738,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,42.1,2009-01-01,2009
+1749,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,36.0,2009-01-01,2009
+1773,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,37.8,2009-01-01,2009
+1821,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Kyrgyz Republic,KGZ,31.7,2009-01-01,2009
+1830,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,33.4,2009-01-01,2009
+1841,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,33.5,2009-01-01,2009
+1842,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,South Sudan,SSD,50.6,2009-01-01,2009
+1853,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Sudan,SDN,46.5,2009-01-01,2009
+1869,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Tajikistan,TJK,47.2,2009-01-01,2009
+1899,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,West Bank and Gaza,WBG,26.2,2009-01-01,2009
+1902,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,57.5,2009-01-01,2009
+1906,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,46.5,2009-01-01,2009
+1939,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,59.6,2009-01-01,2009
+1940,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,66.7,2009-01-01,2009
+1945,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,25.0,2009-01-01,2009
+1949,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,33.3,2009-01-01,2009
+1983,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,19.1,2009-01-01,2009
+1984,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,21.3,2009-01-01,2009
+1989,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bangladesh,BGD,31.5,2010-01-01,2010
+1996,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bulgaria,BGR,22.3,2010-01-01,2010
+2003,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,37.2,2010-01-01,2010
+2027,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Costa Rica,CRI,21.3,2010-01-01,2010
+2034,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Czech Republic,CZE,9.8,2010-01-01,2010
+2043,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,41.6,2010-01-01,2010
+2054,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,32.8,2010-01-01,2010
+2078,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,36.5,2010-01-01,2010
+2093,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,India,IND,29.8,2010-01-01,2010
+2174,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mexico,MEX,46.1,2010-01-01,2010
+2207,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Nepal,NPL,25.16,2010-01-01,2010
+2213,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Nigeria,NGA,46.0386,2010-01-01,2010
+2251,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,29.8,2010-01-01,2010
+2262,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,30.8,2010-01-01,2010
+2263,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Romania,ROM,22.2,2010-01-01,2010
+2272,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Slovenia,SVN,13.6,2010-01-01,2010
+2275,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Sri Lanka,LKA,8.9,2010-01-01,2010
+2285,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Tunisia,TUN,15.5,2010-01-01,2010
+2317,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Vietnam,VNM,20.7,2010-01-01,2010
+2326,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,West Bank and Gaza,WBG,25.7,2010-01-01,2010
+2329,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Zambia,ZMB,60.5,2010-01-01,2010
+2339,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Costa Rica,CRI,26.3,2010-01-01,2010
+2340,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,53.0,2010-01-01,2010
+2344,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,43.2,2010-01-01,2010
+2377,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,54.1,2010-01-01,2010
+2378,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,61.0,2010-01-01,2010
+2383,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Costa Rica,CRI,18.3,2010-01-01,2010
+2384,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,22.5,2010-01-01,2010
+2388,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,33.0,2010-01-01,2010
+2422,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,16.6,2010-01-01,2010
+2423,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,20.0,2010-01-01,2010
+2428,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Afghanistan,AFG,35.8,2011-01-01,2011
+2437,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bolivia,BOL,44.95,2011-01-01,2011
+2446,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bosnia and Herzegovina,BIH,17.9,2011-01-01,2011
+2450,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bulgaria,BGR,21.2,2011-01-01,2011
+2457,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Chile,CHL,14.4,2011-01-01,2011
+2471,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,34.1,2011-01-01,2011
+2495,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Costa Rica,CRI,21.6,2011-01-01,2011
+2502,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Czech Republic,CZE,9.6,2011-01-01,2011
+2511,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,40.4,2011-01-01,2011
+2522,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,28.6,2011-01-01,2011
+2546,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,40.6,2011-01-01,2011
+2561,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Estonia,EST,17.5,2011-01-01,2011
+2577,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Georgia,GEO,17.7,2011-01-01,2011
+2588,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Guatemala,GTM,53.7,2011-01-01,2011
+2597,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Hungary,HUN,14.0,2011-01-01,2011
+2634,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Kyrgyz Republic,KGZ,36.8,2011-01-01,2011
+2643,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Latvia,LVA,19.2,2011-01-01,2011
+2650,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Moldova,MDA,17.5,2011-01-01,2011
+2655,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Montenegro,MNE,9.3,2011-01-01,2011
+2659,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,27.6,2011-01-01,2011
+2672,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,27.8,2011-01-01,2011
+2673,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Poland,POL,17.1,2011-01-01,2011
+2680,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Romania,ROM,22.6,2011-01-01,2011
+2689,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Russian Federation,RUS,12.7,2011-01-01,2011
+2772,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Sierra Leone,SLE,52.9,2011-01-01,2011
+2785,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Slovak Republic,SVK,13.2,2011-01-01,2011
+2794,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Slovenia,SVN,13.5,2011-01-01,2011
+2797,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Togo,TGO,58.7,2011-01-01,2011
+2828,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,West Bank and Gaza,WBG,25.8,2011-01-01,2011
+2831,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Costa Rica,CRI,26.0,2011-01-01,2011
+2832,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,50.9,2011-01-01,2011
+2836,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,50.2,2011-01-01,2011
+2837,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Guatemala,GTM,71.4,2011-01-01,2011
+2870,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,50.4,2011-01-01,2011
+2871,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,56.1,2011-01-01,2011
+2877,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Costa Rica,CRI,19.1,2011-01-01,2011
+2878,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,17.4,2011-01-01,2011
+2882,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,35.4,2011-01-01,2011
+2883,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Guatemala,GTM,35.0,2011-01-01,2011
+2917,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,15.3,2011-01-01,2011
+2918,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,18.0,2011-01-01,2011
+2924,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Albania,ALB,14.3,2012-01-01,2012
+2929,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Armenia,ARM,32.4,2012-01-01,2012
+2941,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Belarus,BLR,6.3,2012-01-01,2012
+2949,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Bhutan,BTN,12.0,2012-01-01,2012
+2968,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Colombia,COL,32.7,2012-01-01,2012
+2992,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Costa Rica,CRI,20.6,2012-01-01,2012
+2999,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Dominican Republic,DOM,40.9,2012-01-01,2012
+3000,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,27.3,2012-01-01,2012
+3024,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,El Salvador,SLV,34.5,2012-01-01,2012
+3039,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Georgia,GEO,14807.0,2012-01-01,2012
+3048,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Guinea,GIN,55.2,2012-01-01,2012
+3057,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Haiti,HTI,58.7,2012-01-01,2012
+3068,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Hungary,HUN,14.3,2012-01-01,2012
+3105,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Iraq,IRQ,18.9,2012-01-01,2012
+3124,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Kyrgyz Republic,KGZ,38.0,2012-01-01,2012
+3133,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Latvia,LVA,19.4,2012-01-01,2012
+3140,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mexico,MEX,45.5,2012-01-01,2012
+3173,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Montenegro,MNE,11.3,2012-01-01,2012
+3177,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,26.5,2012-01-01,2012
+3190,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Peru,PER,25.8,2012-01-01,2012
+3191,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Russian Federation,RUS,10.7,2012-01-01,2012
+3299,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Vietnam,VNM,17.2,2012-01-01,2012
+3308,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Costa Rica,CRI,25.8,2012-01-01,2012
+3309,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,49.1,2012-01-01,2012
+3313,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,El Salvador,SLV,43.3,2012-01-01,2012
+3314,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Haiti,HTI,75.2,2012-01-01,2012
+3348,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,49.9,2012-01-01,2012
+3349,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Peru,PER,53.0,2012-01-01,2012
+3354,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Costa Rica,CRI,17.6,2012-01-01,2012
+3355,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,16.1,2012-01-01,2012
+3359,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,El Salvador,SLV,29.9,2012-01-01,2012
+3360,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Haiti,HTI,40.8,2012-01-01,2012
+3394,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,14.7,2012-01-01,2012
+3395,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Peru,PER,16.6,2012-01-01,2012
+3400,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Belarus,BLR,5.5,2013-01-01,2013
+3408,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Costa Rica,CRI,20.7,2013-01-01,2013
+3415,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Ecuador,ECU,25.5,2013-01-01,2013
+3472,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Kazakhstan,KAZ,2.9,2013-01-01,2013
+3489,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Kyrgyz Republic,KGZ,37.0,2013-01-01,2013
+3498,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Lao PDR,LAO,23.2,2013-01-01,2013
+3516,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Panama,PAN,25.8,2013-01-01,2013
+3553,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Costa Rica,CRI,26.5,2013-01-01,2013
+3554,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Ecuador,ECU,42.0,2013-01-01,2013
+3591,Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,Panama,PAN,49.4,2013-01-01,2013
+3592,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Costa Rica,CRI,17.4,2013-01-01,2013
+3593,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Ecuador,ECU,17.6,2013-01-01,2013
+3630,Poverty headcount ratio at urban poverty line (% of population),SI.POV.URHC,Panama,PAN,13.8,2013-01-01,2013
